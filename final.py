@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-#hit-2022113574-lab1
+#hit-2022113574-lab1 of C4
 import re
 import random
 import numpy as np
