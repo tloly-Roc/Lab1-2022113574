@@ -1,4 +1,4 @@
-# README of C4
+# README of B2
 
 ## 项目简介
 
