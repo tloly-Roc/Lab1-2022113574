@@ -72,8 +72,6 @@ public class ShortestPathTest {
             }
         }
 
-
-
         //情况2：如果允许零长度自环路径
         assertEquals(1, result.size());
         assertEquals(0, result.get(0).get(1));
