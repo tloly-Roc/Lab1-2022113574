@@ -1,0 +1,11 @@
+digraph G {
+	A [style=filled, fillcolor=lightgray];
+	A -> B [label="1"];
+	A -> C [label="1"];
+	B -> D [label="1"];
+	C -> D [label="1"];
+	A -> B [color="red", penwidth=2];
+	B -> D [color="red", penwidth=2];
+	A -> C [color="green", penwidth=2];
+	C -> D [color="green", penwidth=2];
+}
